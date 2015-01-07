@@ -20,12 +20,12 @@ jqnpm install joelpurra/jq-object-sorting
 ```jq
 import "joelpurra/jq-object-sorting" as ObjectSorting;
 
-# byKeyAsc
-# See also byKeyDesc
+# ObjectSorting::byKeyAsc
+# ObjectSorting::See also ObjectSorting::byKeyDesc.
 { "b": 1, "a": 2 } | ObjectSorting::byKeyAsc		# { "a": 2, "b": 1 }
 
-# byValueAsc
-# See also byValueDesc
+# ObjectSorting::byValueAsc
+# ObjectSorting::See also ObjectSorting::byValueDesc.
 { "a": 2, "b": 1 } | ObjectSorting::byValueAsc		# { "b": 1, "a": 2 }
 ```
 
