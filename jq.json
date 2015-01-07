@@ -1,6 +1,6 @@
 {
     "name": "object-sorting",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Sort objects by keys or values",
     "homepage": "https://github.com/joelpurra/jq-object-sorting",
     "bugs": "https://github.com/joelpurra/jq-object-sorting/issues",
