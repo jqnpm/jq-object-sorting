@@ -1,0 +1,28 @@
+{
+    "name": "object-sorting",
+    "version": "0.0.0",
+    "description": "Sort objects by keys or values",
+    "homepage": "https://github.com/joelpurra/jq-object-sorting",
+    "bugs": "https://github.com/joelpurra/jq-object-sorting/issues",
+    "author": {
+        "name": "Joel Purra",
+        "url": "http://joelpurra.com/"
+    },
+    "main": "./jq/main.jq",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/joelpurra/jq-object-sorting.git"
+    },
+    "dependencies": {},
+    "engines": {
+        "jq": "^1.5.0",
+        "jqnpm": "^1.0.0"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://joelpurra.mit-license.org/2015"
+    }],
+    "keywords": [
+        "jq-package"
+    ]
+}
