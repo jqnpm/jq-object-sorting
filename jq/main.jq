@@ -1,4 +1,3 @@
-# Sort entries in objects by either key or value.
 def byKeyAsc:
 	to_entries
 	| sort_by(.key)

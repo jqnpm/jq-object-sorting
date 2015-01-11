@@ -1,7 +1,7 @@
 {
     "name": "object-sorting",
     "version": "0.1.0",
-    "description": "Sort objects by keys or values",
+    "description": "Sort objects by keys or values.",
     "homepage": "https://github.com/joelpurra/jq-object-sorting",
     "bugs": "https://github.com/joelpurra/jq-object-sorting/issues",
     "author": {
@@ -20,7 +20,7 @@
     },
     "licenses": [{
         "type": "MIT",
-        "url": "http://joelpurra.mit-license.org/2015"
+        "url": "http://opensource.org/licenses/MIT"
     }],
     "keywords": [
         "jq-package"
